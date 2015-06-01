@@ -24,7 +24,7 @@ tags: sicurezza
     Galleria 2, Via Cantonale 2c<br/>
     6928 Manno
 </address>
-<a href="http://www.ated.ch/corsi/8/sicuri-nella-rete_3171.html" class="btn-success btn-lg">Iscrivßiti</a>
+<a href="http://www.ated.ch/corsi/8/sicuri-nella-rete_3171.html" class="btn-success btn-lg">Iscriviti</a>
 
 </div>
 </p>
