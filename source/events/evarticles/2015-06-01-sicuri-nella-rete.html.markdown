@@ -1,10 +1,10 @@
 ---
 title: Sicuri nella rete
-date: 2015-06-13
+date: 2015-06-01
 tags: sicurezza
 ---
 
-<h3 class="lead pull-center">Sicuri nella rete</h3>
+<h3 class="lead pull-center">Sicuri nella rete - 13 Giugno 2015</h3>
 <p>Con la proliferazione di dispositivi mobili e delle reti sociali, i ragazzi sono sempre più esposti ai pericoli online.
 È quindi molto importante insegnare loro come essere cittadini digitali sicuri e responsabili.</p>
 
