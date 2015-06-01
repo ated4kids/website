@@ -52,7 +52,7 @@ $ git commit -m "DESCRIPTION_OF_CHANGE"
 $ git push origin
 ```
 
-Note: if you don't have permissions to push on yankedev origin, please submit a Pull Request (PR)
+Note: if you don't have permissions to push on ated4kids repository, please submit a Pull Request (PR)
 
 The master branch will then be built from codeship.io and deployed on gh-pages branch
 
