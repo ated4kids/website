@@ -56,4 +56,4 @@ Note: if you don't have permissions to push on yankedev origin, please submit a 
 
 The master branch will then be built from codeship.io and deployed on gh-pages branch
 
-[ ![Codeship Status for yankedev/ated4kids](https://www.codeship.io/projects/3bcaeec0-183c-0132-b3e5-2e34434bc74d/status)](https://www.codeship.io/projects/34221)
+[ ![Codeship Status for ated4kids/website](https://www.codeship.io/projects/3bcaeec0-183c-0132-b3e5-2e34434bc74d/status)](https://codeship.com/projects/36762)
